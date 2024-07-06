@@ -1,2 +1,3 @@
 # web-develop
- it is my first repository
+ it is my first git repository
+ author sunil patel
